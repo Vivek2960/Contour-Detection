@@ -10,7 +10,7 @@ This project demonstrates an image processing pipeline using Python's OpenCV and
 **Summary**
 The project provides a practical example of image processing techniques using Python. By converting an image to grayscale, applying thresholding, detecting contours, and drawing bounding rectangles, it illustrates fundamental concepts in object detection. The project uses OpenCV for image manipulation, NumPy for numerical calculations, and Matplotlib for visualization. The approach filters contours based on their area and combines nearby contours to create a unified representation of objects within an image. This pipeline is essential for applications requiring object detection and spatial analysis.
 
-*8Conclusion**
+**Conclusion**
 This project successfully demonstrates the application of image processing techniques to detect and visualize objects in an image. By employing Python’s OpenCV library, the project outlines a clear workflow for preprocessing, detecting contours, filtering, and visualizing object boundaries. The use of contour filtering and combination techniques allows for more accurate and meaningful object detection, making the approach suitable for various real-world applications. The results showcase how combining basic image processing techniques can lead to effective object detection and analysis.
 
 **Real-Time Use**
